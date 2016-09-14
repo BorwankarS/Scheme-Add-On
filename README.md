@@ -15,7 +15,7 @@
 
 
 ---
-Folder Description:
+## Folder Description:
 1. "index.js" in my-addon folder is an entry point for addon.
 2. Data folder in my-addon directory contains " my-script.js" file. This file has parser and interpreter for scheme language.
  
